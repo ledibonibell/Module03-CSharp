@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\C#\lab04\lab043\bin\Debug\net6.0\lab043.exe
+C:\Users\Егор\Documents\C#\lab04\lab043\bin\Debug\net6.0\lab043.deps.json
+C:\Users\Егор\Documents\C#\lab04\lab043\bin\Debug\net6.0\lab043.runtimeconfig.json
+C:\Users\Егор\Documents\C#\lab04\lab043\bin\Debug\net6.0\lab043.dll
+C:\Users\Егор\Documents\C#\lab04\lab043\bin\Debug\net6.0\lab043.pdb
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.AssemblyInfo.cs
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.dll
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\refint\lab043.dll
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.pdb
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\lab043.genruntimeconfig.cache
+C:\Users\Егор\Documents\C#\lab04\lab043\obj\Debug\net6.0\ref\lab043.dll

@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\bin\Debug\net7.0\lab151.exe
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\bin\Debug\net7.0\lab151.deps.json
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\bin\Debug\net7.0\lab151.runtimeconfig.json
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\bin\Debug\net7.0\lab151.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\bin\Debug\net7.0\lab151.pdb
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\refint\lab151.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.pdb
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\lab151.genruntimeconfig.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab151\obj\Debug\net7.0\ref\lab151.dll

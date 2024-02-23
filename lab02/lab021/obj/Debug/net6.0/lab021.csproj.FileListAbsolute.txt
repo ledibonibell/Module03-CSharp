@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\C#\lab02\lab021\bin\Debug\net6.0\lab021.exe
+C:\Users\Егор\Documents\C#\lab02\lab021\bin\Debug\net6.0\lab021.deps.json
+C:\Users\Егор\Documents\C#\lab02\lab021\bin\Debug\net6.0\lab021.runtimeconfig.json
+C:\Users\Егор\Documents\C#\lab02\lab021\bin\Debug\net6.0\lab021.dll
+C:\Users\Егор\Documents\C#\lab02\lab021\bin\Debug\net6.0\lab021.pdb
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.AssemblyInfo.cs
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.dll
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\refint\lab021.dll
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.pdb
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\lab021.genruntimeconfig.cache
+C:\Users\Егор\Documents\C#\lab02\lab021\obj\Debug\net6.0\ref\lab021.dll

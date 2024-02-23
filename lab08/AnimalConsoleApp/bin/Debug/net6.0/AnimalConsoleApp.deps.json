@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnimalConsoleApp/1.0.0": {
+        "dependencies": {
+          "AnimalLibrary": "1.0.0",
+          "lab08": "1.0.0"
+        },
+        "runtime": {
+          "AnimalConsoleApp.dll": {}
+        }
+      },
+      "AnimalLibrary/1.0.0": {
+        "runtime": {
+          "AnimalLibrary.dll": {}
+        }
+      },
+      "lab08/1.0.0": {
+        "dependencies": {
+          "AnimalLibrary": "1.0.0"
+        },
+        "runtime": {
+          "lab08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

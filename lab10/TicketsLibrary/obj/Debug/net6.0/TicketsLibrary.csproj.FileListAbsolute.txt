@@ -1,0 +1,34 @@
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.deps.json
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.pdb
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/refint/TicketsLibrary.dll
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.pdb
+/Users/marmelad/RiderProjects/lab10/TicketsLibrary/obj/Debug/net6.0/ref/TicketsLibrary.dll
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.deps.json
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.dll
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfoInputs.cache
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfo.cs
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.dll
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\refint\TicketsLibrary.dll
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\Егор\Downloads\lab10_2022-main\TicketsLibrary\obj\Debug\net6.0\ref\TicketsLibrary.dll
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.deps.json
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.dll
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.dll
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\refint\TicketsLibrary.dll
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\Егор\Documents\C# - labs\lab10\TicketsLibrary\obj\Debug\net6.0\ref\TicketsLibrary.dll

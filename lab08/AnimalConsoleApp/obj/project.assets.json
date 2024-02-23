@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AnimalLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AnimalLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AnimalLibrary.dll": {}
+        }
+      },
+      "lab08/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AnimalLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab08.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AnimalLibrary/AnimalLibrary.csproj",
+      "msbuildProject": "../AnimalLibrary/AnimalLibrary.csproj"
+    },
+    "lab08/1.0.0": {
+      "type": "project",
+      "path": "../lab08/lab08.csproj",
+      "msbuildProject": "../lab08/lab08.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AnimalLibrary >= 1.0.0",
+      "lab08 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Егор\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\AnimalConsoleApp\\AnimalConsoleApp.csproj",
+      "projectName": "AnimalConsoleApp",
+      "projectPath": "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\AnimalConsoleApp\\AnimalConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\AnimalConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Егор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\AnimalLibrary\\AnimalLibrary.csproj": {
+              "projectPath": "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\AnimalLibrary\\AnimalLibrary.csproj"
+            },
+            "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\lab08\\lab08.csproj": {
+              "projectPath": "C:\\Users\\Егор\\Documents\\C# - labs\\lab08\\lab08\\lab08.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

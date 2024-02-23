@@ -1,0 +1,17 @@
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\lab152.exe
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\lab152.deps.json
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\lab152.runtimeconfig.json
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\lab152.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\lab152.pdb
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\refint\lab152.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.pdb
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.genruntimeconfig.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\ref\lab152.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.csproj.AssemblyReference.cache
+C:\Users\Егор\Documents\C# - labs\lab15\lab152\obj\Debug\net7.0\lab152.csproj.CopyComplete

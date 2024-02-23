@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\bin\Debug\net6.0\lab051.exe
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\bin\Debug\net6.0\lab051.deps.json
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\bin\Debug\net6.0\lab051.runtimeconfig.json
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\bin\Debug\net6.0\lab051.dll
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\bin\Debug\net6.0\lab051.pdb
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.dll
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\refint\lab051.dll
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.pdb
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\lab051.genruntimeconfig.cache
+C:\Users\Егор\Documents\C# - labs\lab05\lab051\obj\Debug\net6.0\ref\lab051.dll

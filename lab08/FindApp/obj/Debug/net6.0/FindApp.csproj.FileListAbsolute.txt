@@ -1,0 +1,14 @@
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\bin\Debug\net6.0\FindApp.exe
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\bin\Debug\net6.0\FindApp.deps.json
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\bin\Debug\net6.0\FindApp.runtimeconfig.json
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\bin\Debug\net6.0\FindApp.dll
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\bin\Debug\net6.0\FindApp.pdb
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.AssemblyInfo.cs
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.dll
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\refint\FindApp.dll
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.pdb
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\FindApp.genruntimeconfig.cache
+C:\Users\Егор\Documents\C# - labs\lab08\FindApp\obj\Debug\net6.0\ref\FindApp.dll
